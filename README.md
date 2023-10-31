@@ -1,2 +1,2 @@
 # Certificates
-Certificates granted after completing programming courses
+Certificates granted after completing programming courses, internships, etc.
